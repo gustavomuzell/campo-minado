@@ -1,6 +1,6 @@
 # Campo Minado (Swing)
 
-Projeto do jogo campo minado do curso de Java(Udamy)
+Projeto do jogo campo minado do curso de Java(Udemy)
 
 Professor: Leonardo Moura Leitao (Arquiteto de Software)
 
